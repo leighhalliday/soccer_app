@@ -1,0 +1,31 @@
+{
+  "id": 1,
+  "name": "Toronto FC",
+  "updated_at": "2015-11-27T19:01:49.846Z",
+  "players": [
+    {
+      "id": 1,
+      "name": "Sebastian Giovinco",
+      "position": "Forward",
+      "nickname": "Atomic Ant",
+      "jersey_number": "10",
+      "nationality": "Italian",
+      "updated_at": "2015-11-27T19:01:49.852Z"
+    },
+    {
+      "id": 2,
+      "name": "Sebastian Giovinco",
+      "position": "Forward",
+      "nickname": "Atomic Ant",
+      "jersey_number": "10",
+      "nationality": "Italian",
+      "updated_at": "2015-11-27T19:01:49.853Z"
+    }
+  ],
+  "league": {
+    "id": 1,
+    "name": "MLS",
+    "slug": "mls",
+    "updated_at": "2015-11-27T19:01:49.835Z"
+  }
+}
