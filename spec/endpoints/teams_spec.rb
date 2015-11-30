@@ -6,6 +6,6 @@ RSpec.describe TeamsController, type: :request do
     create(:player, team: team)
     create(:player, team: team)
 
-    verify_endpoint "/teams/#{Team.first.id}"
+    verify_endpoint "/teams/#{team.id}"
   end
 end
